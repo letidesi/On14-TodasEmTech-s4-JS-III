@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(43, 1, 36);
+  color: white;
+  font: normal 18pt;
+}
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+input {
+  width: 20%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+label {
+  font-size: 25px;
+}
+#botao {
+  margin-top: 5%;
+}
